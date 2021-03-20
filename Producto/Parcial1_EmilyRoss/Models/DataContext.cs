@@ -12,5 +12,7 @@ namespace Parcial1_EmilyRoss.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<Parcial1_EmilyRoss.Models.Producto> Productoes { get; set; }
     }
 }

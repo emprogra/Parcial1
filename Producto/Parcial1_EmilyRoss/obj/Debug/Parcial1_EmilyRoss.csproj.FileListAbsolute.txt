@@ -83,3 +83,7 @@ C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\obj\Debug\Pa
 C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\obj\Debug\Parcial1_EmilyRoss.csproj.CopyComplete
 C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\obj\Debug\Parcial1_EmilyRoss.dll
 C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\obj\Debug\Parcial1_EmilyRoss.pdb
+C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\bin\EntityFramework.dll
+C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\bin\EntityFramework.SqlServer.dll
+C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\bin\EntityFramework.xml
+C:\Users\Emily HP\Source\Repos\Parcial1\Producto\Parcial1_EmilyRoss\bin\EntityFramework.SqlServer.xml
